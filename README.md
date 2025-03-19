@@ -1,13 +1,16 @@
-📊 Data Science Projects Repository
-This repository contains five machine learning projects covering classification, regression, and fraud detection tasks.
+**📊 Data Science Projects Repository**
+This repository contains five Data Science projects covering classification, regression, and fraud detection tasks.
 
-📁 Project List
+**📁 Project List**
 🚢 Titanic Survival Prediction
 🎬 Movie Rating Prediction
 🌺 Iris Flower Classification
 📈 Sales Prediction
 💳 Credit Card Fraud Detection
-🚢 Titanic Survival Prediction
+
+
+**🚢 Titanic Survival Prediction**
+
 📌 Objective
 Predict whether a passenger survived the Titanic disaster using machine learning.
 
@@ -29,7 +32,7 @@ Recall	1.0000
 F1-score	1.0000
 🔗 Notebook: Titanic_Survival_Prediction.ipynb
 
-🎬 Movie Rating Prediction
+**🎬 Movie Rating Prediction**
 📌 Objective
 Estimate IMDb ratings based on movie attributes.
 
@@ -51,7 +54,7 @@ RMSE	0.8756
 R² Score	0.2116
 🔗 Notebook: Movie_Rating_Prediction.ipynb
 
-🌺 Iris Flower Classification
+**🌺 Iris Flower Classification**
 📌 Objective
 Classify iris flowers into Setosa, Versicolor, or Virginica.
 
@@ -70,7 +73,7 @@ Metric	Score
 Accuracy	1.0000
 🔗 Notebook: Iris_Flower_Classification.ipynb
 
-📈 Sales Prediction
+**📈 Sales Prediction**
 📌 Objective
 Forecast product sales based on historical data.
 
@@ -90,7 +93,7 @@ R² Score (Test)	99.9999%
 R² Score (Train)	99.9999%
 🔗 Notebook: Sales_Prediction.ipynb
 
-💳 Credit Card Fraud Detection
+**💳 Credit Card Fraud Detection**
 📌 Objective
 Detect fraudulent transactions efficiently.
 
