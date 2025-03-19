@@ -1,5 +1,5 @@
-# 📊 Machine Learning Projects Repository
-This repository contains five machine learning projects covering classification, regression, and fraud detection tasks.
+# 📊 Data Science Projects Repository
+This repository contains five Data Science projects covering classification, regression, and fraud detection tasks.
 
 ## 📁 Project List
 1. 💀 [**Titanic Survival Prediction**](#-titanic-survival-prediction)  
@@ -135,27 +135,4 @@ Detect fraudulent transactions efficiently.
 | Recall  | **0.8367** |
 | F1-score  | **0.8542** |
 
----
-
-## 🚀 How to Run the Notebooks
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/machine-learning-projects.git
-   cd machine-learning-projects
-   ```  
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-3. Open Jupyter Notebook and run any project:  
-   ```bash
-   jupyter notebook
-   ```  
-
----
-
-## 🔮 Future Improvements
-- Apply **Deep Learning models** for better predictions.  
-- Perform **Hyperparameter tuning** to enhance accuracy.  
-- Engineer more **meaningful features** in all projects.  
 
